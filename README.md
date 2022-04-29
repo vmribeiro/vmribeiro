@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋, thank you for checking my GitHub profile!</h1>
-<h4 align="center">I’m Victor Ribeiro, and as a Data Analyst I help companies to improve their business through an innovative data-driven and collaborative environment, using Analytics, Business Intelligence, and Data Science, with a pinch of storytelling and some nice presentations.</h3>
+<h3 align="left">Hi 👋, thank you for checking my GitHub profile!</h1>
 <br>
 <p>I’m Victor Ribeiro, and as a Data Analyst I help companies to improve their business through an innovative data-driven and collaborative environment, using Analytics, Business Intelligence, and Data Science, with a pinch of storytelling and some nice presentations. </p>
 <br>
