@@ -1,7 +1,9 @@
 <h3 align="left">Hello! Thank you for checking my GitHub profile! 👋👋</h1>
 <p>KWs: Data Analytics | Business Intelligence (BI) | Analista de Dados | Analista de Negócios | Business Analyst</p>
+
 <p align="left">
-    <a href="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle.png" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/linkedin/logo-linkedin-2048.png" alt="linkedin" width="40" height="40"/> </a>
+    Connect with me: &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/victor-moraes-ribeiro/" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
     <a href="mailto: vm.ribeiro@outlook.com" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="e-mail" width="40" height="40"/> </a>
 </p>
 <br>
