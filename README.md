@@ -5,21 +5,21 @@
 <p>Something I believe that is completely necessary for data roles (soft skill), is to be as closer as possible to your stakeholders, developing a healthy feedback culture. Listening (A LOT), adapting the solutions and innovating in a cyclic process is the key to have success in this area. </p>
 
 <p>Some of my hard skills and the tools I’m used to work with: </p>
-    <ul> Data Analytics </ul>
-    <ul> Business Intelligence (BI) </ul>
-    <ul> Dimensional Modeling </ul>
-    <ul> Database Engineering and Optimization </ul>
-    <ul> Programming languages (and script languages): Python, SQL, Java and C# </ul>
-    <ul> BI Tools: Power BI, Tableau, Quicksight, Looker, Periscope (Sisense) </ul>
-    <ul> Databases: Teradata, Amazon Redshift, Snowflake, IBM DB2, (MSSQL) Microsoft SQL Server </ul>
-    <ul> Web: HTML, CSS and Javascript (JS) </ul>
+    <ul>• Data Analytics </ul>
+    <ul>• Business Intelligence (BI) </ul>
+    <ul>• Dimensional Modeling </ul>
+    <ul>• Database Engineering and Optimization </ul>
+    <ul>• Programming languages (and script languages): Python, SQL, Java and C# </ul>
+    <ul>• BI Tools: Power BI, Tableau, Quicksight, Looker, Periscope (Sisense) </ul>
+    <ul>• Databases: Teradata, Amazon Redshift, Snowflake, IBM DB2, (MSSQL) Microsoft SQL Server </ul>
+    <ul>• Web: HTML, CSS and Javascript (JS) </ul>
 
 <p>Some of the soft skills I developed and that I keep improving:  </p>
-    <ul> Storytelling </ul>
-    <ul> Stakeholder management </ul>
-    <ul> Project management </ul>
-    <ul> Innovation and brainstorming </ul>
-    <ul> Reporting and business writing </ul> 
+    <ul>• Storytelling </ul>
+    <ul>• Stakeholder management </ul>
+    <ul>• Project management </ul>
+    <ul>• Innovation and brainstorming </ul>
+    <ul>• Reporting and business writing </ul> 
 
 <p>KWs: Data Analytics | Business Intelligence (BI) | Analista de Dados | Analista de Negócios | Business Analyst</p>
 <br>
