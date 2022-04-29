@@ -1,11 +1,9 @@
 <h3 align="left">Hi 👋, thank you for checking my GitHub profile!</h1>
 <br>
 <p>I’m Victor Ribeiro, and as a Data Analyst I help companies to improve their business through an innovative data-driven and collaborative environment, using Analytics, Business Intelligence, and Data Science, with a pinch of storytelling and some nice presentations. </p>
-<br>
 <p>Even after my 5 years of experience and an MBA, I keep learning every day, and I still believe that the best way to improve a business is first, teaching and capacitating people, and I can absolutely say that sharing knowledge is my passion. I also find it of the utmost importance to be curious and constantly search about new topics, in or out the area you act, being a self-learner. </p>
-<br>
 <p>Something I believe that is completely necessary for data roles (soft skill), is to be as closer as possible to your stakeholders, developing a healthy feedback culture. Listening (A LOT), adapting the solutions and innovating in a cyclic process is the key to have success in this area. </p>
-<br>
+
 <p>Some of my hard skills and the tools I’m used to work with: </p>
     <ul> Data Analytics </ul>
     <ul> Business Intelligence (BI) </ul>
@@ -15,14 +13,14 @@
     <ul> BI Tools: Power BI, Tableau, Quicksight, Looker, Periscope (Sisense) </ul>
     <ul> Databases: Teradata, Amazon Redshift, Snowflake, IBM DB2, (MSSQL) Microsoft SQL Server </ul>
     <ul> Web: HTML, CSS and Javascript (JS) </ul>
-<br>
+
 <p>Some of the soft skills I developed and that I keep improving:  </p>
     <ul> Storytelling </ul>
     <ul> Stakeholder management </ul>
     <ul> Project management </ul>
     <ul> Innovation and brainstorming </ul>
     <ul> Reporting and business writing </ul> 
-<br>
+
 <p>KWs: Data Analytics | Business Intelligence (BI) | Analista de Dados | Analista de Negócios | Business Analyst</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="vmribeiro" /> </p>
