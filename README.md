@@ -1,6 +1,6 @@
 <h3 align="center">Hello! Thank you for checking my GitHub profile! 👋👋</h1>
-<p align="center">Currently working as: Staff Data Scientist at Trustly | Mentor in Programming at Mais1Code <a href="https://mais1code.com.br/" target="_blank" rel="noreferrer">  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHJh3_iePOWbA/company-logo_200_200/0/1634585856591?e=2147483647&v=beta&t=G4oVZvF8T8G494jrG7dR7U3oeVVAyUgxchORGbv05K0" alt="mais1code" width="20" height="20"/> </a> </p>
-
+<p align="center">Currently working as: Staff Data Scientist at Trustly 
+    
 <p align="center">
     Connect with me:&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/victor-moraes-ribeiro/" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
